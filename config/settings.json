@@ -1,0 +1,27 @@
+{
+    "ai_provider": "openai",
+    "model": "gpt-4",
+    "max_tokens": 2000,
+    "temperature": 0.7,
+    "supported_languages": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "cpp",
+        "csharp",
+        "go",
+        "rust",
+        "php",
+        "ruby",
+        "bash",
+        "html",
+        "css",
+        "sql"
+    ],
+    "default_language": "python",
+    "output_format": "file",
+    "include_comments": true,
+    "include_tests": true,
+    "code_style": "clean"
+}

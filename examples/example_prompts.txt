@@ -1,0 +1,35 @@
+# BashChat Example Prompts
+# Copy and paste these into BashChat to see what it can generate
+
+# Web Applications
+create a python web app called BlogApp with user authentication and database
+build a javascript web api for e-commerce with payment integration
+create an html website for a tech startup with modern design
+
+# CLI Tools
+create a python command line tool for log analysis
+build a bash script for automated server deployment
+create a go cli tool for file synchronization
+
+# Data Processing
+create a python script for CSV data processing and visualization
+build sql schema for inventory management system
+
+# Mobile & Desktop
+create a react native app for task management
+build a desktop app in electron for note taking
+
+# APIs & Services
+build a rest api in node.js for user management
+create a microservice in go for authentication
+build a graphql api for content management
+
+# Scripts & Utilities
+create a bash script for system monitoring
+build a python script for file organization
+create a powershell script for windows automation
+
+# Games & Entertainment
+create a simple game in python using pygame
+build a web-based puzzle game in javascript
+create a text-based adventure game in python
